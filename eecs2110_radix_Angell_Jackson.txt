@@ -11,7 +11,7 @@
 __iar_program_start
         
 main
-  // Brian Angell, Landon Jackson "Volume Project in ARM"
+  // "Volume Project in ARM"
   //
   // will calcualte the volume of rectangular prism in feet and inches
   // there will be no interaction with the user
